@@ -12,6 +12,10 @@ JavaScript, CSS, and HTML
 * [js-must-watch/readme.md at master ·
 bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch/blob/master/readme.md)
 
+## Coding Style
+
+* [airbnb/javascript](https://github.com/airbnb/javascript)
+
 ## Libraries
 
 * Flow chart [flowchart.js](http://adrai.github.io/flowchart.js/)
