@@ -25,5 +25,8 @@ bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch/blob/mas
 
 * Materialize (CSS for Google's Material Design) [Getting Started - Materialize](http://materializecss.com/getting-started.html)
 
+## Tools
+
+* SVG badges [Shields.io: Quality metadata badges for open source projects](http://shields.io/)
 
 
