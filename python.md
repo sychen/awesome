@@ -1,12 +1,14 @@
 # Books
 
 * [Effective Python › The Book](http://www.effectivepython.com/)
+* [yasoob/intermediatePython](https://github.com/yasoob/intermediatePython)
 
 # Cheatsheets
 
 * [PyFormat: Using % and .format() for great good!](http://pyformat.info)
 * [The Little Book of Python Anti-Patterns — Python Anti-Patterns 0.1
   documentation](http://docs.quantifiedcode.com/python-anti-patterns/index.html)
+* [duerrp/pyexperiment](https://github.com/duerrp/pyexperiment)
 
 # Packaging and Installing
 
