@@ -10,6 +10,13 @@
   documentation](http://docs.quantifiedcode.com/python-anti-patterns/index.html)
 * [duerrp/pyexperiment](https://github.com/duerrp/pyexperiment)
 
+# Beginner Tutorials
+
+* [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
+* [Python Tutorial 第一堂（1）揭開序幕 by caterpillar | CodeData](http://www.codedata.com.tw/python/python-tutorial-the-1st-class-1-preface)
+* [The Python Tutorial — Python 2.7.10 documentation](https://docs.python.org/2/tutorial/)
+* [Python | Codecademy](https://www.codecademy.com/en/tracks/python)
+
 # Packaging and Installing
 
 * [Python Packaging User Guide — Python Packaging User Guide
