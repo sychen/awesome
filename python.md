@@ -10,6 +10,7 @@
   documentation](http://docs.quantifiedcode.com/python-anti-patterns/index.html)
 * [duerrp/pyexperiment](https://github.com/duerrp/pyexperiment)
 * [Python Pedia | One Stop for Python Programming Resources.](https://pythonpedia.com/)
+* [A Guide to Python's Magic Methods « rafekettler.com](http://www.rafekettler.com/magicmethods.html)
 
 # Beginner Tutorials
 
