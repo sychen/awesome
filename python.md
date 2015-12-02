@@ -11,6 +11,8 @@
 * [duerrp/pyexperiment](https://github.com/duerrp/pyexperiment)
 * [Python Pedia | One Stop for Python Programming Resources.](https://pythonpedia.com/)
 * [A Guide to Python's Magic Methods « rafekettler.com](http://www.rafekettler.com/magicmethods.html)
+* [Python奇技淫巧 | Snow Memory](http://andrewliu.in/2015/11/14/Python%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7/)
+
 
 # Beginner Tutorials
 
