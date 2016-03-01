@@ -21,6 +21,8 @@
 * [Python Tutorial 第一堂（1）揭開序幕 by caterpillar | CodeData](http://www.codedata.com.tw/python/python-tutorial-the-1st-class-1-preface)
 * [The Python Tutorial — Python 2.7.10 documentation](https://docs.python.org/2/tutorial/)
 * [Python | Codecademy](https://www.codecademy.com/en/tracks/python)
+* [Python Tutor - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code
+  execution](http://pythontutor.com/)
 
 # Packaging and Installing
 
