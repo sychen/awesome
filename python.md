@@ -24,6 +24,10 @@
 * [Python Tutor - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code
   execution](http://pythontutor.com/)
 
+# Styles
+
+* [PEP8: The Style Guide for Python Code](http://pep8.org/)
+
 # Packaging and Installing
 
 * [Python Packaging User Guide — Python Packaging User Guide
