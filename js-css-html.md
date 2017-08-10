@@ -21,8 +21,6 @@ JavaScript, CSS, and HTML
 * [airbnb/javascript](https://github.com/airbnb/javascript)
 * [U.S. Web Design Standards | Getting started](https://playbook.cio.gov/designstandards/getting-started/)
 
-
-
 ## Libraries
 
 * Flow chart [flowchart.js](http://adrai.github.io/flowchart.js/)
@@ -35,6 +33,7 @@ JavaScript, CSS, and HTML
 ## Tools
 
 * SVG badges [Shields.io: Quality metadata badges for open source projects](http://shields.io/)
+* JS Comparison Table [JS Comparison Table](https://dorey.github.io/JavaScript-Equality-Table/)
 
 # CSS
 
